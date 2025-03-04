@@ -13,6 +13,8 @@ Mario Game
 
 ## 場景
 
+### Start Screen
 ![Start Screen](https://raw.githubusercontent.com/skygaouni/Mario-Game/refs/heads/main/GameScene/Start%20Screen.png)
 
+### Score Screen
 ![Score Screen](https://raw.githubusercontent.com/skygaouni/Mario-Game/refs/heads/main/GameScene/Score%20Screen.png)
